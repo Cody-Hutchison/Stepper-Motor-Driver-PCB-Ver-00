@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Axis Driver PCB-Plated.TXT]
+   Generated File[Axis Driver PCB.DRL]
+   Generated File[Axis Driver PCB-BoardEdgeRout.TXT]
+   Generated File[Axis Driver PCB.LDP]
+   Generated File[Axis Driver PCB.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:24:02 On 09-Nov-22

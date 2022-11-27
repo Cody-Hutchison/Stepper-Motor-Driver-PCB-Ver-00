@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Axis Driver PCB.GTO]
+   Generated File[Axis Driver PCB.GTS]
+   Generated File[Axis Driver PCB.GTL]
+   Generated File[Axis Driver PCB.GBL]
+   Generated File[Axis Driver PCB.GBS]
+   Generated File[Axis Driver PCB.RUL]
+   Generated File[Axis Driver PCB.EXTREP]
+   Generated File[Axis Driver PCB.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 16:21:56 On 09-Nov-22

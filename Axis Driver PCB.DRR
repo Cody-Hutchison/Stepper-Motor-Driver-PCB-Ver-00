@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Axis Driver PCB.PcbDoc   09-Nov-22  16:24:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Axis Driver PCB-Plated.TXT
+EIA File   : Axis Driver PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             16        PTH        148.21mm (5.83inch)
+T2      0.711mm (28mil)                                           Round             116       PTH        894.24mm (35.21inch)
+T3      1.1mm (43mil)                                             Round             24        PTH        119.23mm (4.69inch)
+T4      3.175mm (125mil)                                          Round             4         PTH        434.07mm (17.09inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              160
+
+Total Processing Time (hh:mm:ss) : 00:00:00
